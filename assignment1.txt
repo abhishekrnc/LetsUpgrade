@@ -1,0 +1,8 @@
+Q1. Difference between let and var.
+Ans. Let and var both are varients and are used to decalare variable in JS. Let has a block level scope and Var has a Global level scope.
+     Let was intrduced in the ES6 version of JS and Var was used from before.
+     Let makes it easier to code when we are coding or writing program in a large scale, while var has global scope and hence it sometimes
+     creates problem while declaring the variable.
+
+Q2. Why are null, array printed as object type in console.
+Ans. 
